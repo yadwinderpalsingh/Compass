@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "441300446953",
+    "firebase_url": "https://missioncontrol-75ac7.firebaseio.com",
+    "project_id": "missioncontrol-75ac7",
+    "storage_bucket": "missioncontrol-75ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441300446953:android:8cb407a73303ba33",
+        "android_client_info": {
+          "package_name": "net.yadwindersingh.missioncontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441300446953-3p8ij1j1feeaquhfv8fi085vu369afie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVK48_afCPF5Y4txi2NZg0T3LOmHf26PE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
